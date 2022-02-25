@@ -35,7 +35,7 @@
   <hr>
   
 <!--- GitHub Stats --->
-<h3📊 My GitHub Stats ...</h3>
+<h3>📊 My GitHub Stats ...</h3>
 <div align='center'>
   <img alt="GitHub-Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=haaaziq" />
   <br>
