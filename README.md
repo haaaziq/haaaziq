@@ -31,6 +31,17 @@
   <a href = "https://twitter.com/intent/follow?screen_name=haziqkhan__" target="_blank">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/haziqkhan__?style=social">
   </a>
+  
+  <hr>
+  
+<!--- GitHub Stats --->
+<h3📊 My GitHub Stats ...</h3>
+<div align='center'>
+  <img alt="GitHub-Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=haaaziq" />
+  <br>
+  <img alt='hit-counter' src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaaaziq1212%2Fhit-counter' />
+</div>
+
 
 <!---
 haaaziq/haaaziq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
